@@ -1,0 +1,32 @@
+{
+  "name": "Jibon Tailor - Management System",
+  "short_name": "Jibon Tailor",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f6",
+  "theme_color": "#0d5c51",
+  "description": "Jibon Tailor management system for invoices, measurements, accounts, customers, tailor ledger and monthly reports.",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "business",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "./icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
